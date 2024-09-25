@@ -1,4 +1,4 @@
-Sure, I can help you transfer your Fortnite update using an Ethernet cable. Here's a step-by-step guide tailored for Windows environments, designed with a focus on efficiency and best practices.
+Here's a step-by-step guide tailored for Windows environments.
 
 ---
 
